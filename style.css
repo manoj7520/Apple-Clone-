@@ -1,0 +1,100 @@
+#main{
+    background-color:#010101e1;
+    opacity: 0.9;
+    padding-top: 1px;
+    padding-bottom: 6px;
+    height: 40px;
+    margin: 0;
+}
+form ,#form{
+    color: white;
+    padding-left: 3px;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: lightblue;
+}
+#main2{
+    height: 40px;
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+}
+#h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6cm;
+    background-color: rgba(222, 222, 222, 0.808);
+    margin-right: 6cm;
+ font-size: 13px;
+ background-color: rgba(240, 248, 255, 0.275);
+}
+#store{
+    text-decoration: none;
+    color: rgba(245, 245, 245, 0.76);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 1px;
+}
+#par{
+    margin-left: 4.5cm;
+    margin-right: 4.5cm;
+}
+#bag{
+    width: 15px;
+    height: 15px;
+}
+#logo{
+    width: 15px;
+    height: 15px;
+    color: rgba(245, 245, 245, 0.814);
+}
+#search{
+    width: 15px;
+    height: 15px;
+}
+#h1{
+    text-align: center;
+    font-size: 55px;
+    margin:0;
+    color: rgba(0, 0, 0, 0.807);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgba(245, 245, 245, 0.316);
+    margin:0;
+}
+#shop{
+    color: rgba(0, 0, 255, 0.696);
+}
+#subh1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.772);
+    font-size: 25px;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#support{
+text-align: center;
+color: rgba(0, 0, 0, 0.65);
+border-style: solid;
+border-width: thin;
+margin-left: 603px;
+margin-right: 598px;
+padding: 5.9px;
+border-radius: 25px;
+}
+#learnmore,#buy{
+    color: rgba(0, 0, 255, 0.753);
+    text-decoration: none;
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#lb{
+    text-align: center;
+}
+#f{
+    text-align: center;
+}
+#phone{
+    width: 20cm;
+}
