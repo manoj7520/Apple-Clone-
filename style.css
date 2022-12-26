@@ -41,6 +41,7 @@ form ,#form{
 #bag{
     width: 15px;
     height: 15px;
+    color: grey;
 }
 #logo{
     width: 15px;
@@ -97,4 +98,259 @@ border-radius: 25px;
 }
 #phone{
     width: 20cm;
+}
+#h1iphone14pro{
+    text-align: center;
+    font-size: 55px;
+    margin:0;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 7px;
+}
+#subh1iphone14pro{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#supportiphone14pro{
+    text-align: center;
+color: rgba(255, 255, 255, 0.505);
+border-style: solid;
+border-width: thin;
+margin-left: 603px;
+margin-right: 598px;
+padding: 5.9px;
+border-radius: 25px;
+}
+#learnmoreiphone14pro ,#buyiphone14pro{
+    color: rgb(38, 182, 231);
+    text-decoration: none;
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#iphone14pro{
+    width: 18cm;
+}
+#diviphone14pro{
+ text-align: center;
+ height: 18cm;
+ background-color: black;
+}
+#box3{
+    height: 15cm;
+    display: flex;
+}
+#ipad{
+    text-align: center;
+    flex: 1;
+    width: 50%;
+}
+#ipadpro{
+    border-left :1px solid rgba(3, 3, 3, 0.394);
+    flex: 1;
+}
+#learnmoreipad ,#buyipad{
+    color: rgba(0, 0, 255, 0.753);
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#ipadimg{
+    width: 340px;
+}
+#h2ipad{
+    font-size: 45px;
+    margin:0;
+    color: rgba(0, 0, 0, 0.855);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#subhipad{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.742);
+    font-size: 20px;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ipadpro{
+    background-color: black;
+    text-align: center;
+    flex: 1;
+    width: 50%;
+}
+#h2ipadpro{
+    font-size: 45px;
+    margin:0;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#subhipadpro{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ipadproimg{
+   width:  600px;
+   height: 400px;
+}
+#box7{
+    height: 15cm;
+    display: flex;
+}
+#watch{
+    text-align: center;
+    flex: 1;
+}
+#macbookair{
+    text-align: center;
+    flex: 1;
+}
+#h2watch{
+    font-size: 45px;
+    margin:0;
+    color:rgba(0, 0, 0, 0.855);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#h3watch{
+    color: orange;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+#subhwatch{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.742);
+    font-size: 21px;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#learnmorewatch,#buywatch{
+    color: rgba(0, 0, 255, 0.753);
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center; 
+}
+#h2macbookair{
+    font-size: 45px;
+    margin:0;
+    color: rgba(0, 0, 0, 0.855);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#subhmacbookair{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.742);
+    font-size: 21px;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+#learnmoremacbookair,#buymacbookair{
+    color: rgba(0, 0, 255, 0.753);
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center; 
+}
+#box4{
+    display: flex;
+}
+#division1{
+    flex: 1;
+    background-color:whitesmoke;
+}
+#division2{
+    flex: 7;
+    background-color:whitesmoke;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.444);
+}
+#division3{
+    flex: 1;
+    background-color: whitesmoke;
+}
+#note{
+    color: rgba(0, 0, 0, 0.603);
+}
+#box5{
+    display: flex;
+    background-color: whitesmoke;
+}
+.div1{
+    width: 10%;
+}
+.div2{
+    width: 16%;
+    background-color: whitesmoke;
+}
+.div3{
+    width: 16%;
+    background-color: whitesmoke;
+}
+.div4{
+    width: 16%;
+    background-color: whitesmoke;
+}
+.div5{
+    width: 16%;
+    background-color: whitesmoke;
+}
+.div6{
+    flex: 1;
+    background-color: whitesmoke;
+}
+.div7{
+    width: 10%;
+}
+ul{
+    list-style-type:none;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.631);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+li{
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.617);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#box6{
+    display: flex;
+    background-color: whitesmoke;
+}
+#d1{
+    flex: 1;
+}
+#d2{
+    flex: 7;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.444);
+}
+#d3{
+    flex: 1;
+}
+#b6{
+    color: rgba(0, 0, 0, 0.478);
+    font-size: 14px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color:rgba(0, 0, 255, 0.815)
+}
+#divparagraph{
+    display: flex;
+    background-color: whitesmoke;
+}
+#divparagraph1{
+    flex: 2;
+    color: rgba(0, 0, 0, 0.589);
+    font-family: serif;
+}
+#divparagraph2{
+    flex: 3;
+    color: rgba(0, 0, 0, 0.635);
+    font-size: 15px;
+    font-weight: bold;
 }
