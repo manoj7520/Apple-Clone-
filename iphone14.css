@@ -1,0 +1,202 @@
+#main{
+    background-color:#010101e1;
+    opacity: 0.9;
+    padding-top: 1px;
+    padding-bottom: 6px;
+    height: 40px;
+    margin: 0;
+}
+#main2{
+    height: 40px;
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+}
+#h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6cm;
+    background-color: rgba(222, 222, 222, 0.808);
+    margin-right: 6cm;
+ font-size: 13px;
+ background-color: rgba(240, 248, 255, 0.275);
+}
+#store{
+    text-decoration: none;
+    color: rgba(245, 245, 245, 0.76);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 1px;
+}
+#par{
+    margin-left: 4.5cm;
+    margin-right: 4.5cm;
+}
+#bag{
+    width: 15px;
+    height: 15px;
+    color: grey;
+}
+#logo{
+    width: 15px;
+    height: 15px;
+    color: rgba(245, 245, 245, 0.814);
+}
+#search{
+    width: 15px;
+    height: 15px;
+}
+#h1{
+    text-align: center;
+    font-size: 55px;
+    margin:0;
+    color: rgba(0, 0, 0, 0.807);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgba(245, 245, 245, 0.316);
+    margin:0;
+}
+#shop{
+    color: rgba(0, 0, 255, 0.696);
+}
+#subh1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.772);
+    font-size: 25px;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#support{
+text-align: center;
+color: rgba(0, 0, 0, 0.65);
+border-style: solid;
+border-width: thin;
+margin-left: 603px;
+margin-right: 598px;
+padding: 5.9px;
+border-radius: 25px;
+}
+#learnmore,#buy{
+    color: rgba(0, 0, 255, 0.753);
+    text-decoration: none;
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#lb{
+    text-align: center;
+}
+#f{
+    text-align: center;
+}
+#main3{
+    height: 50px;
+    border-color: 1px solid black;
+    display: flex;
+}
+#main34{
+ width: 13%;
+}
+#main31{
+   width: 20%;
+}
+#main32{
+    width: 40%;
+}
+#main33{
+    width: 20%;
+    padding: 15px;
+}
+#main35{
+ width: 1%;
+}
+#buyiphone{
+    border-width: 3cm;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.648);
+    border-left: 1px solid blue;
+    border-right: 1px solid blue;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+    text-decoration: none;
+    border-color: 1px solid rgba(0, 0, 255, 0.281);
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-color: rgba(0, 0, 255, 0.63);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    
+}
+#iphone14{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 19px;
+    color: rgba(0, 0, 0, 0.712);
+}
+#overview{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.581);
+}
+#main4{
+    height: 6cm;
+    text-align: center;
+}
+#iphoneheading{
+    font-size: 160px;
+     font-weight: bold;
+     font-family: sans-serif;
+     color: rgb(86, 178, 235);
+}
+#main5{
+    text-align: center;
+}
+#bigandbigger{
+    flex: 1;
+    text-align: center;
+display: inline;
+font-weight: 200;
+font-size: 70px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgba(0, 0, 0, 0.803);
+}
+#leftdisplay{
+    display: flex;
+    position: absolute;
+    text-align: left;
+    margin-top: 3cm;
+    margin-bottom: 3cm;
+}
+#rightdisplay{
+    display: flex;
+    position: absolute;
+    text-align: right;
+    margin-top: 3cm;
+    margin-bottom: 3cm;
+}
+#rightdisplayiphoneheading{
+    text-align: right;   
+}
+#img{
+    display: flex;
+    text-align: center;
+    width: 35cm;
+    height: 20cm;
+}
+#iphonecam{
+    text-align: right;
+}
+#iphonecamimg{
+    width: 28cm;
+    height: 15cm;
+}
+#epicprolevel{
+    text-align: center;
+    display: inline;
+    font-weight: 600;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.803);
+}
